@@ -1,0 +1,491 @@
+body{
+   background-color: #fff;
+    background-size: cover;
+    height: 109vh;
+    
+    
+}
+nav{
+    margin: 20px;
+}
+
+
+.b{
+    margin-left: 60px;
+    margin-right: 1140px;
+    font-size:27px;
+    text-decoration: none;
+    color: rgb(28, 28, 85);
+    margin-top: 40px;
+}
+.d{
+    font-size: 17px;
+    color: rgb(28,28,85);
+    text-decoration: none;
+    padding: 10px;
+    text-transform: uppercase;
+    margin-right: 50px;
+    font-weight: bold;
+    margin-top: 40px;
+    
+}
+.c{
+    font-size: 17px;
+    color: rgb(28,28,85);
+    text-decoration: none;
+    border: none;
+    background-color: rgb(28,28,85);
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: #fff;
+    border-radius: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.text{
+    margin-top: 200px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.second{
+    font-size: 45px;
+    color: rgb(234, 144, 159);
+    line-height: 60px;
+}
+
+.btn{
+    width: 300px;
+    padding: 15px;
+    background-color: rgb(28, 28, 85);
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.thir{
+    margin-top: 20px;
+    
+}
+.main2{
+    margin-top: 100px;
+    background-color: #fff;
+    background-size: cover;
+    height: 60vh;
+}
+.para{
+    text-align: center;
+    
+}
+
+.pa{
+    font-family: sans-serif;
+    color: rgb(36, 34, 34);
+    font-weight: normal;
+}
+
+.wrapper{
+    height: 40vh;
+    background-color: #fff;
+    background-size: cover;
+}
+
+.call{
+    width: 550px;
+    height: 350px;
+    background-color: rgb(228, 241, 245);
+    margin-left: 400px;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+.ca{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 80px;
+}
+.dis{
+    margin-left: 50px;
+    font-size: 25px;
+}
+.disc{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.what{
+    width: 550px;
+    height: 350px;
+}
+.do{
+    font-size: 40px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.we{
+    margin-left: 50px;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 53% 40%;
+}
+.wrapper2{
+    background-color: #fff;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 20% 20% 10%;
+    height: 75vh;
+    grid-row-gap:2em;
+    margin-top: 1em;
+    
+    
+}
+
+.clinic{
+    border-radius: 10px;
+    background-color: rgb(255, 242, 244);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+}
+.plus{
+    width: 60px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.ri{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.read{
+    margin-left: 50px;
+}
+.r{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.fer{
+    border-radius: 10px;
+    background-color: rgb(255, 230, 234);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+}
+
+.gen{
+    border-radius: 10px;
+    background-color: rgb(249, 244, 219);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+}
+
+.cycles{
+    border-radius: 10px;
+    background-color: rgb(255, 242, 244);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+    margin-top: 0;
+}
+.genetic{
+    margin-top: 0;
+    margin-top: 0;
+    border-radius: 10px;
+    background-color: rgb(255, 242, 244);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+
+}
+
+.male{
+    border-radius: 10px;
+    background-color: rgb(255, 242, 244);
+    width:350px ;
+    height: 320px;
+    color: rgb(28, 27, 27);
+    margin-left: 400px;
+}
+.k{
+    background-color: #fff;
+    height: 50vh;
+    width: 100%;
+}
+.do{
+    margin-top: 100px;
+}
+.tahir{
+    height: 30vh;
+}
+.wrapper5{
+    margin-left: 400px;
+    height: 50vh;
+    display: grid;
+    grid-template-columns: 18% 18% 18% 40%;
+    grid-gap: 1em;
+}
+.w{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(247, 242, 242);
+    border-radius: 10px;
+}
+.call3{
+    width: 60px;
+    margin-left: 15px;
+}
+.is{
+    margin-left: 15px;
+}
+.co{
+    margin-left: 15px;
+}
+.x{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(247, 242, 242);
+    border-radius: 10px;
+
+}
+.lock{
+    width: 60px;
+    margin-left: 15px;
+}
+.cons{
+    margin-left: 15px;
+}
+.ul{
+    margin-left: 15px;
+}
+
+.y{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(13, 32, 72);
+    border-radius: 10px; 
+    box-shadow: rgb(28, 80, 144) 0px 5px 15px;
+}
+.prof{
+    width: 60px;
+    margin-left: 15px;
+}
+.on{
+    margin-left: 15px;
+    color: white;
+}
+.li{
+    margin-left: 15px;
+    color: white;
+}
+.z{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(247, 242, 242);
+    border-radius: 10px; 
+
+}
+.heart{
+    width: 60px;
+    margin-left: 15px;
+}
+.sup{
+    margin-left: 15px;
+}
+.po{
+    margin-left: 15px;
+}
+
+.wrapper6{
+    width: 100%;
+    background-color: rgb(255, 231, 234);
+    height: 230px;
+    display: grid;
+    grid-template-columns: 60% 20%;
+}
+.ok{
+    color: rgb(28, 28, 85);
+    margin-left: 460px;
+    margin-top: 70px;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ff{
+    width: 300px;
+    height: 60px;
+    margin-top: 90px;
+    background-color: rgb(28, 28, 85);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    
+}
+.cod{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 38% 20%;
+}
+.gg{
+    width: 100px;
+    margin-left: 580px;
+    margin-top: 25px;
+}
+
+
+.mohsin{
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.arrow{
+    width: 100px;
+    height: 100px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.arrl{
+    width: 25px;
+    background-color: pink;
+    padding: 20px;
+    border-radius: 50%;
+}
+.arrr{
+    width: 25px;
+    background-color: pink;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.pr{
+    border-radius: 70%;
+    border: rgb(125, 240, 125) solid 2px;
+    width: 350px;
+}
+.passa{
+    font-size: 22px;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.country{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrapper7{
+    display: grid;
+    grid-template-columns: 28% 20% 35%;
+    margin-top: 50px;
+    
+}
+.wrapper8{
+    margin-top: 50px;
+    height: 30vh;
+}
+.picts2{
+    width: 90px; 
+    margin-left: 550px;
+    border-radius: 50%;
+
+}
+.pict1{
+    border-radius: 50%;
+    width: 90px;
+    margin-left: 0.7em;
+}
+
+.footer{
+    width: 100%;
+    height: 12vh;
+    background-color: rgb(239, 248, 248);
+    display: flex;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}
+.log{
+   margin-top: 40px;
+   font-size: 30px;
+   margin-left: 200px;
+   text-decoration: none;
+   color: rgb(13, 32, 72);
+}
+.serv{
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 15px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(13, 32, 72);
+}
+.aba{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(13, 32, 72);
+}
+.tion{
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 15px;
+    margin-left: 50px;
+    text-decoration: none;
+    color: rgb(13, 32, 72);
+}
+.tc{
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(72, 115, 128);
+}
+.pp{
+    margin-top: 50px;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(72 , 115,128);
+    margin-left: 50px;
+}
+
+.foot2{
+    color: #fff;
+    text-align: center;
+    width: 100%;
+   padding: 20px;
+   letter-spacing: 1px;
+    background-color: rgb(13, 32, 72);
+   
+}
+.pit1{
+    border-radius: 50%;
+    width: 60px;
+    margin-left: -0.9em;
+    margin-top: 20px;
+    border: 2px solid skyblue;
+}
+.pit2{
+    border-radius: 50%;
+    width: 60px;
+    margin-left: -0.9em;
+    border: 2px solid skyblue;
+}
+.pict2{
+    border-radius: 50%;
+    width: 60px;
+    
+    margin-left: 10px;
+    border: 2px solid skyblue;
+}
+
